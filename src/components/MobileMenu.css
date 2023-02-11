@@ -22,7 +22,7 @@
     padding: 0 16px;
     display: flex;
     align-items: center;
-    justify-content: end;
+    justify-content: flex-end;
 }
 
 .mobile-menu__btn {
